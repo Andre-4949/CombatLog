@@ -1,0 +1,8 @@
+name: CombatLog
+main: de.andre.CombatLog.Main
+version: -1.0-SNAPSHOT
+api-version: 1.19
+author: Andre-4949
+commands:
+  setCombatTime:
+    description: sets the combat time
